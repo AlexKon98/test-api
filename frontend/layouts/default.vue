@@ -25,6 +25,7 @@ footer {
 
 header, footer {
   background-color: rgba(128, 128, 128, .5);
+  padding: 10px;
 }
 </style>
 
@@ -37,5 +38,9 @@ header, footer {
 
 html, body {
   font-family: sans-serif;
+}
+
+ul, ol {
+  list-style: none;
 }
 </style>
